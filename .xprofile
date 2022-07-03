@@ -1,0 +1,10 @@
+setxkbmap -layout latam &
+numlockx &
+feh --bg-fill /home/jay/Pictures/123123123.jpg &
+picom &
+nm-applet &
+volumeicon &
+
+
+
+
